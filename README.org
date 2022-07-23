@@ -32,5 +32,4 @@ Tools I use for note taking. [[heptabase.com][Heptabase]]
 * Stuff I'm grateful for
 ** Visit Sydney
 Very grateful with my awesome colleague's effort I finaly got a change to visie my team in Sydney. H picked me up at the air port and P showed me around the city.
-#+attr_html: :width 500px
-[[./img/sydney.jpg]]
+#+html: <p align="left"><img src="./img/sydney.jpg" width=50% /></p>
